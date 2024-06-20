@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
+    font-size: xx-large;
+}
+
+header nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+#superman-banner  {
+    background-image: url("./assets/Supermanflying.png");
+}
+
+#batman-banner {
+    background-image: url("./assets/Batman\ landscape\ wallpaper.jpeg");
+}
