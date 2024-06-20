@@ -1,2 +1,2 @@
 # Html_CSS_lab_DC_Marvel
-![alt text](https://files.slack.com/files-pri/T036NTMRPCK-F079PBGQTDE/screenshot_2024-06-20_at_14.46.51.png)
+![Screenshot 2024-06-20 at 14 46 51](https://github.com/Sabah-bot/Html_CSS_lab_DC_Marvel/assets/129223646/a0f48f3a-94cb-46ea-bdf0-816a18f9d676)
