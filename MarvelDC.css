@@ -54,3 +54,19 @@ footer{
     grid-template-columns: 1fr 1fr 1fr;
     
 }
+
+@media screen and (max-width: 768px ) {
+    body {
+        font-size: large;
+    }
+
+    #superman-banner, #batman-banner {
+        height: 400px;
+    }
+
+    footer {
+        grid-template-columns: 1 fr;
+    
+    }
+    
+}
